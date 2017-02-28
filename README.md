@@ -3,6 +3,7 @@
 SIG Mobile Apps 2017 Session 6
 
 Points covered:
+- Use of WebView for displaying webpages in app itself
 - Basic usage of Fragments
 - Differences between Fragments and Activity and relations between them
 - Fragment and Activity cycle
