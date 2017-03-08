@@ -43,4 +43,8 @@ public class MyFragment extends Fragment {
 
         return v;
     }
+
+    public String getString(){
+        return editText.getText().toString();
+    }
 }
